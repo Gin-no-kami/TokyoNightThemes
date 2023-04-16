@@ -1,0 +1,28 @@
+{
+  "manifest_version": 3,
+  "name": "Tokyo Night",
+  "description": "Soothing pastel theme for Google Chrome - Tokyo Night",
+  "version": "3.0",
+  "theme": {
+    "colors": {
+      "frame": [24, 28, 51],
+      "frame_inactive": [24, 28, 51],
+      "frame_incognito": [62, 67, 88],
+      "frame_incognito_inactive": [62, 67, 88],
+      "bookmark_text": [192, 202, 245],
+      "tab_background_text": [65, 72, 104],
+      "tab_background_text_inactive": [62, 67, 88],
+      "tab_background_text_incognito": [192, 202, 245],
+      "tab_background_text_incognito_inactive": [65, 72, 104],
+      "tab_text": [192, 202, 245],
+      "toolbar": [24, 28, 51],
+      "toolbar_button_icon": [192, 202, 245],
+      "omnibox_text": [192, 202, 245],
+      "omnibox_background": [36, 40, 59],
+      "ntp_background": [24, 28, 51],
+      "ntp_link": [192, 202, 245],
+      "ntp_text": [192, 202, 245],
+      "button_background": [24, 28, 51]
+    }
+  }
+}
