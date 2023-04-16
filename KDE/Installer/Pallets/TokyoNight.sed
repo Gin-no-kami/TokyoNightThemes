@@ -15,8 +15,8 @@ s/$lavender/122, 162, 247/g
 s/$text/192, 202, 245/g
 s/$subtext1/181, 192, 243/g
 s/$subtext0/169, 177, 214/g
-s/$overlay1/154, 165, 206/g
-s/$overlay2/86, 95, 137/g
+s/$overlay2/154, 165, 206/g
+s/$overlay1/86, 95, 137/g
 s/$overlay0/65, 72, 104/g
 s/$surface2/81, 86, 106/g
 s/$surface1/62, 67, 88/g
